@@ -1,0 +1,22 @@
+{
+  "name": "novel",
+  "version": "1.0.0",
+  "description": "这是由 GitBook 制作的电子书。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyahong423/novel.git"
+  },
+  "author": "wangyahong423",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangyahong423/novel/issues"
+  },
+  "homepage": "https://github.com/wangyahong423/novel#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
